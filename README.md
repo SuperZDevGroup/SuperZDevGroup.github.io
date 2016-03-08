@@ -8,7 +8,7 @@
 
 - SuperZDev
 - [Douglee](https://github.com/DougLee)
-- NAME2
+- [lzg葫芦娃](https://github.com/lzghuluw)
 - NAME3
 
 # Target
@@ -17,7 +17,8 @@
 2. 请先完善上面组员英文名称填写
 3. 请先阅读一下github一些基本操作
 4. 在群里，讨论一下咱们团队的介绍site
-5. ......
+5. 加油努力小伙伴,未来的前途是你们的,我就是来抱大腿的。
+6. ......
 
 # Homepage
 [http://team.superzdev.com](http://team.superzdev.com)
