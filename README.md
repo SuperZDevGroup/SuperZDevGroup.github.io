@@ -7,7 +7,7 @@
 # Members
 
 - SuperZDev
-- NAME1
+- [Douglee](https://github.com/DougLee)
 - NAME2
 - NAME3
 
