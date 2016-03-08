@@ -9,7 +9,7 @@
 - [SuperZDev](https://github.com/SuperZDev)
 
 	- [github](https://github.com/SuperZDev)
-	- [blogm](http://superzdev.com)
+	- [blog](http://superzdev.com)
 	
 - [Douglee](https://github.com/DougLee)
 - [lzg葫芦娃](https://github.com/lzghuluwa)
