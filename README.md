@@ -12,7 +12,7 @@
 	- [blogm](http://superzdev.com)
 	
 - [Douglee](https://github.com/DougLee)
-- [lzg葫芦娃](https://github.com/lzghuluw)
+- [lzg葫芦娃](https://github.com/lzghuluwa)
 - NAME3
 
 # Target
