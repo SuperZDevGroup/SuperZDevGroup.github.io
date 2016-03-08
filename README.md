@@ -8,8 +8,8 @@
 
 - [SuperZDev](https://github.com/SuperZDev)
 
-	- github:[https://github.com/SuperZDev](https://github.com/SuperZDev)
-	- blog:[http://superzdev.com](http://superzdev.com)
+	- [github](https://github.com/SuperZDev)
+	- [blogm](http://superzdev.com)
 	
 - [Douglee](https://github.com/DougLee)
 - [lzg葫芦娃](https://github.com/lzghuluw)
