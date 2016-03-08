@@ -6,7 +6,7 @@
 
 # Members
 
-- SuperZDev
+- [SuperZDev](https://github.com/SuperZDev)
 - [Douglee](https://github.com/DougLee)
 - [lzg葫芦娃](https://github.com/lzghuluw)
 - NAME3
