@@ -22,7 +22,7 @@
 3. 请先阅读一下github一些基本操作
 4. 在群里，讨论一下咱们团队的介绍site
 5. 加油努力小伙伴,未来的前途是你们的,我就是来抱大腿的。
-6. ......
+6. 想学习github的常用操作可以到此链接(http://www.nowcoder.com/courses/2) 有专业的团队翻译,英文原声,中文字幕,还能刷题哦。
 
 # Homepage
 [http://team.superzdev.com](http://team.superzdev.com)
